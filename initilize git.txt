@@ -1,0 +1,3 @@
+to initilize we need comment:
+"git init" 
+press enter
