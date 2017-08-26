@@ -1,1 +1,2 @@
+to pull from online:
 "git pull"
